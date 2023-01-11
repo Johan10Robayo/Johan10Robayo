@@ -1,4 +1,16 @@
-### HOLA soy Johan Robayo 👋
+### ✨ HOLA soy Johan Robayo ✨ 👋
+
+Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a aprender cosas nuevas que mejoren mis habilidades
+
+Lenguajes:
+- Java
+- Python
+- Javascript
+
+Frameworks:
+- SpringBoot
+- Django
+- Bootstrap
 
 <!--
 **Johan10Robayo/Johan10Robayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
