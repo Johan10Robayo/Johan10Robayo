@@ -12,6 +12,16 @@ Frameworks:
 - Django
 - Bootstrap
 
+Bases de datos:
+- Mysql
+- PostgreSQL
+- Oracle
+
+Forntend
+- Html
+- Css
+-Thymeleaf
+
 <!--
 **Johan10Robayo/Johan10Robayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
