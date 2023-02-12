@@ -2,7 +2,7 @@
 
 Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a aprender cosas nuevas que mejoren mis habilidades
 
-##### Lenguajes Backend
+## Lenguajes Backend
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -10,7 +10,7 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 
-#### Lenguajes Frontend
+## Lenguajes Frontend
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -20,10 +20,12 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 ![SpringBoot](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
 
-
-#### Algunas tecnologías
+## Versionamiento
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-205081?style=flat&logo=atlassian)
+
+#### Otras tecnologías
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Gorilla Mux](https://img.shields.io/badge/Gorilla%20Mux-000000?style=flat&logo=go)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
