@@ -25,6 +25,11 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-205081?style=flat&logo=atlassian)
 
+#ORM
+![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=java)
+![Hibernate](https://img.shields.io/badge/Hibernate-A63E51?style=flat&logo=java)
+![GORM](https://img.shields.io/badge/GORM-006B75?style=flat&logo=go)
+
 ## Otras tecnologías
 ![Gorilla Mux](https://img.shields.io/badge/Gorilla%20Mux-000000?style=flat&logo=go)
 ![Fetch API](https://img.shields.io/badge/Fetch%20API-E34F26?style=flat&logo=javascript)
