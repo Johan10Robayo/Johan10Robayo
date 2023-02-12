@@ -36,6 +36,8 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 
+## Arquitecturas
+![RESTful API](https://img.shields.io/badge/RESTful%20API-007AFF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDEyMDAiPjxwYXRoIGZpbGw9IiMwMDdhZmYiIGQ9Ik02MDAgMGwyMDUgMjA1TDYwMCA0MDBsLTIwNS0yMDV6bTAtNDAwbDIwNSAyMDVINjAwbC0yMDUtMjA1eiIvPjwvc3ZnPg==)
 
 ## Bases de datos
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
