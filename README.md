@@ -4,7 +4,7 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 
 ##### Lenguajes Backend
 
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Go](https://img.shields.io/badge/Go-4D4D4D?style=flat&logo=go)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
