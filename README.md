@@ -25,18 +25,19 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-205081?style=flat&logo=atlassian)
 
-#### Otras tecnologías
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+## Otras tecnologías
 ![Gorilla Mux](https://img.shields.io/badge/Gorilla%20Mux-000000?style=flat&logo=go)
+![Fetch](https://img.shields.io/badge/Fetch-2965CC?style=flat&logo=git)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 
 
-#### Bases de datos
+## Bases de datos
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
-#### IDEs y Editores
+## IDEs y Editores
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 <!--
