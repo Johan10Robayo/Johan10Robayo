@@ -47,7 +47,7 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 ## IDEs y Editores
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse](https://img.shields.io/badge/Eclipse-0052CC?style=flat&logo=eclipse)
+![Eclipse](https://img.shields.io/badge/Eclipse-722ED1?style=flat&logo=eclipse)
 <!--
 **Johan10Robayo/Johan10Robayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
