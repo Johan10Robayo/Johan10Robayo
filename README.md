@@ -27,7 +27,7 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 
 ## Otras tecnologías
 ![Gorilla Mux](https://img.shields.io/badge/Gorilla%20Mux-000000?style=flat&logo=go)
-![Fetch](https://img.shields.io/badge/Fetch-2965CC?style=flat&logo=git)
+![Fetch API](https://img.shields.io/badge/Fetch%20API-E34F26?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 
