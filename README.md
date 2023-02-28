@@ -5,9 +5,10 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 ## Lenguajes Backend
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
+![C#](https://img.shields.io/badge/-C%23-68217A?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Go](https://img.shields.io/badge/Go-4D4D4D?style=flat&logo=go)
-![C#](https://img.shields.io/badge/-C%23-68217A?style=flat&logo=c-sharp&logoColor=white)
+
 
 
 ## Lenguajes Frontend
@@ -47,6 +48,7 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 
 ## IDEs y Editores
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse](https://img.shields.io/badge/Eclipse-722ED1?style=flat&logo=eclipse)
 <!--
