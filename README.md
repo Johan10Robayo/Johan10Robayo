@@ -20,6 +20,7 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 ## Frameworks
 ![SpringBoot](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![ASP .NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ## Versionamiento
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
