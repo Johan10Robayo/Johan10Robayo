@@ -17,10 +17,16 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
-## Frameworks
+## Frameworks Frontend
+![Blazor](https://img.shields.io/badge/-Blazor-%235C2D91?style=flat-square&logo=blazor)
+
+
+## Frameworks Backend
 ![SpringBoot](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
 ![ASP .NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+
 
 ## Versionamiento
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
@@ -28,6 +34,7 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-205081?style=flat&logo=atlassian)
 
 ### ORM
+![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-%2341B883?style=flat-square&logo=entity-framework)
 ![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=java)
 ![Hibernate](https://img.shields.io/badge/Hibernate-A63E51?style=flat&logo=java)
 ![GORM](https://img.shields.io/badge/GORM-006B75?style=flat&logo=go)
