@@ -19,6 +19,8 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 
 ## Frameworks Frontend
 ![Blazor](https://img.shields.io/badge/-Blazor-%235C2D91?style=flat-square&logo=blazor)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+
 
 
 ## Frameworks Backend
