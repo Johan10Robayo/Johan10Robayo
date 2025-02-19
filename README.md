@@ -1,6 +1,6 @@
 ### ✨ HOLA soy Johan Robayo ✨ 👋
 
-Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a aprender cosas nuevas que mejoren mis habilidades, estas son mis habilidades técnicas:
+Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a aprender cosas nuevas que mejoren mis habilidades, estas son mis habilidades técnicas: 
 
 ## Lenguajes Backend
 
