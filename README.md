@@ -1,8 +1,8 @@
-### ✨ HOLA soy Johan Robayo ✨ 👋
+### ✨ Hi I'm Johan Robayo ✨ 👋
 
-Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a aprender cosas nuevas que mejoren mis habilidades, estas son mis habilidades técnicas: 
+Hello! I'm a passionate web developer with a strong enthusiasm for technology and continuous learning. I'm always eager to explore new tools and techniques that enhance my skills and help me build efficient, modern, and innovative solutions. Technical Skills:
 
-## Lenguajes Backend
+##  Backend Languages
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
 ![C#](https://img.shields.io/badge/-C%23-68217A?style=flat&logo=c-sharp&logoColor=white)
@@ -11,7 +11,7 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 
 
 
-## Lenguajes Frontend
+##  Frontend Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -32,7 +32,7 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 
 
 
-## Versionamiento
+## Version Tools
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-205081?style=flat&logo=atlassian)
@@ -43,7 +43,7 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 ![Hibernate](https://img.shields.io/badge/Hibernate-A63E51?style=flat&logo=java)
 ![GORM](https://img.shields.io/badge/GORM-006B75?style=flat&logo=go)
 
-## Otras tecnologías
+## Other tecnologies
 ![RESTful API](https://img.shields.io/badge/RESTful%20API-007AFF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDEyMDAiPjxwYXRoIGZpbGw9IiMwMDdhZmYiIGQ9Ik02MDAgMGwyMDUgMjA1TDYwMCA0MDBsLTIwNS0yMDV6bTAtNDAwbDIwNSAyMDVINjAwbC0yMDUtMjA1eiIvPjwvc3ZnPg==)
 ![Gorilla Mux](https://img.shields.io/badge/Gorilla%20Mux-000000?style=flat&logo=go)
 ![Fetch API](https://img.shields.io/badge/Fetch%20API-E34F26?style=flat&logo=javascript)
@@ -53,12 +53,12 @@ Soy desarrollador web, me apasiona la tecnología y siempre estoy dispuesto a ap
 
 
 
-## Bases de datos
+## Data Bases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
-## IDEs y Editores
+## IDEs and Editors
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
