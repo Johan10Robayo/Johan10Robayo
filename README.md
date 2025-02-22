@@ -30,6 +30,10 @@ Hello! I'm a passionate web developer with a strong enthusiasm for technology an
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
 ![ASP .NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 
+## Frameworks Mobile
+![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+
 
 
 ## Version Tools
